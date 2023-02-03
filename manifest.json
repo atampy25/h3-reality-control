@@ -1,8 +1,48 @@
 {
-	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.12.4"
+  "version": "1.0.2",
+  "id": "Atampy26.InteractionsMod",
+  "name": "Interactions Mod",
+  "description": "In development.",
+  "authors": ["Atampy26"],
+  "contentFolders": ["content"],
+  "frameworkVersion": "2.0.0",
+  "dependencies": [
+    "008D7BCBC350FBDF",
+    "00093CC1DD6970A4",
+    "001371671639F307",
+    "00BDA47227DA38AC"
+  ],
+  "localisation": {
+    "english": {
+      "UI_WAKE": "Wake",
+      "UI_UNCONSCIOUSPERSON": "Unconscious person",
+      "UI_ASKTOFOLLOW": "Ask to follow",
+      "UI_DISMISS": "Dismiss",
+      "UI_KILL": "Kill",
+      "UI_INVINCIBILITY_DISABLED": "Vincible",
+      "UI_INVINCIBILITY_ENABLED": "Invincible",
+      "UI_INVISIBILITY_DISABLED": "Visible",
+      "UI_INVISIBILITY_ENABLED": "Invisible"
+    },
+    "french": {},
+    "italian": {},
+    "german": {},
+    "spanish": {},
+    "russian": {},
+    "chineseSimplified": {},
+    "chineseTraditional": {},
+    "japanese": {}
+  },
+  "localisedLines": {
+    "0012AEABF494927E": "UI_WAKE",
+    "0012AB43A74EACDE": "UI_UNCONSCIOUSPERSON",
+    "0012927534AABEDE": "UI_ASKTOFOLLOW",
+    "0012356F1CDADBDE": "UI_DISMISS",
+    "00616F7369646ABD": "UI_KILL",
+    "006977716E656A6B": "UI_INVINCIBILITY_DISABLED",
+    "005F494E56494E43": "UI_INVINCIBILITY_ENABLED",
+    "004942494C495459": "UI_INVISIBILITY_ENABLED",
+    "00454E41424C4544": "UI_INVISIBILITY_DISABLED"
+  },
+  "updateCheck": "https://hitman-resources.netlify.app/framework/updates/AI Playground.json"
 }
