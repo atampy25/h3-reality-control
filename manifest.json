@@ -11,7 +11,8 @@
     "00093CC1DD6970A4",
     "001371671639F307",
     "00BDA47227DA38AC",
-    "00E597CA88C36DFE"
+    "00E597CA88C36DFE",
+    "0094CA751051B7BD"
   ],
   "localisation": {
     "english": {
@@ -20,14 +21,14 @@
       "UI_ASKTOFOLLOW": "Ask to follow",
       "UI_DISMISS": "Dismiss",
       "UI_KILL": "Kill",
-      "UI_INVINCIBILITY_DISABLED": "Become invincible",
-      "UI_INVINCIBILITY_ENABLED": "Become vincible",
+      "UI_INVINCIBILITY": "Invincibility",
+      "UI_DISABLED": "Disabled",
+      "UI_ENABLED": "Enabled",
       "UI_TIME_SPEED_PERCENTAGE": "Time speed: {0}%",
       "UI_INCREASE_SPEED": "Speed up",
       "UI_DECREASE_SPEED": "Slow down",
-      "UI_INVISIBILITY_DISABLED": "Become invisible",
-      "UI_INVISIBILITY_ENABLED": "Become visible",
-      "UI_KNOCKOUT": "Knock out"
+      "UI_KNOCKOUT": "Knock out",
+      "UI_AI": "AI"
     },
     "french": {},
     "italian": {},
@@ -44,10 +45,10 @@
     "0012927534AABEDE": "UI_ASKTOFOLLOW",
     "0012356F1CDADBDE": "UI_DISMISS",
     "00616F7369646ABD": "UI_KILL",
-    "006977716E656A6B": "UI_INVINCIBILITY_DISABLED",
-    "005F494E56494E43": "UI_INVINCIBILITY_ENABLED",
-    "005649534942494C": "UI_INVISIBILITY_DISABLED",
-    "00303062696C6974": "UI_INVISIBILITY_ENABLED",
+    "006977716E656A6B": "UI_INVINCIBILITY",
+    "005F494E56494E43": "UI_AI",
+    "005649534942494C": "UI_DISABLED",
+    "00303062696C6974": "UI_ENABLED",
     "0050455243454E54": "UI_TIME_SPEED_PERCENTAGE",
     "0053455F53504545": "UI_INCREASE_SPEED",
     "0055495F44454352": "UI_DECREASE_SPEED",
