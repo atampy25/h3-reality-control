@@ -22,10 +22,11 @@
       "UI_KILL": "Kill",
       "UI_INVINCIBILITY_DISABLED": "Become invincible",
       "UI_INVINCIBILITY_ENABLED": "Become vincible",
-      "UI_INCREASE_PERCENTAGE": "Time speed: {0}%",
+      "UI_TIME_SPEED_PERCENTAGE": "Time speed: {0}%",
+      "UI_INCREASE_SPEED": "Speed up",
+      "UI_DECREASE_SPEED": "Slow down",
       "UI_INVISIBILITY_DISABLED": "Become invisible",
       "UI_INVISIBILITY_ENABLED": "Become visible",
-      "UI_DECREASE": "Slow down",
       "UI_KNOCKOUT": "Knock out"
     },
     "french": {},
@@ -47,8 +48,9 @@
     "005F494E56494E43": "UI_INVINCIBILITY_ENABLED",
     "005649534942494C": "UI_INVISIBILITY_DISABLED",
     "00303062696C6974": "UI_INVISIBILITY_ENABLED",
-    "0050455243454E54": "UI_INCREASE_PERCENTAGE",
-    "0055495F44454352": "UI_DECREASE",
+    "0050455243454E54": "UI_TIME_SPEED_PERCENTAGE",
+    "0053455F53504545": "UI_INCREASE_SPEED",
+    "0055495F44454352": "UI_DECREASE_SPEED",
     "004E4F434B4F5554": "UI_KNOCKOUT"
   },
   "updateCheck": "https://hitman-resources.netlify.app/framework/updates/AI Playground.json"
