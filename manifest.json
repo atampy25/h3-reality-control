@@ -29,7 +29,20 @@
 			"UI_KNOCKOUT": "Knock out",
 			"UI_AI": "AI"
 		},
-		"french": {},
+		"french": {
+			"UI_WAKE": "Réveiller",
+			"UI_ASKTOFOLLOW": "Demander de suivre",
+			"UI_DISMISS": "Congédier",
+			"UI_KILL": "Tuer",
+			"UI_INVINCIBILITY": "Invincibilité",
+			"UI_DISABLED": "Désactivé",
+			"UI_ENABLED": "Activé",
+			"UI_TIME_SPEED_PERCENTAGE": "Vitesse du jeu: {0}%",
+			"UI_INCREASE_SPEED": "Accélérer",
+			"UI_DECREASE_SPEED": "Ralentir",
+			"UI_KNOCKOUT": "Assommer",
+			"UI_AI": "AI"
+		},
 		"italian": {},
 		"german": {
 			"UI_WAKE": "Wecken",
