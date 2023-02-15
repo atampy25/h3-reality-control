@@ -62,7 +62,20 @@
 		"russian": {},
 		"chineseSimplified": {},
 		"chineseTraditional": {},
-		"japanese": {}
+		"japanese": {
+			"UI_WAKE": "起こす",
+			"UI_ASKTOFOLLOW": "ついてくるように頼む",
+			"UI_DISMISS": "解散する",
+			"UI_KILL": "殺す",
+			"UI_INVINCIBILITY": "無敵",
+			"UI_DISABLED": "無効",
+			"UI_ENABLED": "有効",
+			"UI_TIME_SPEED_PERCENTAGE": "ゲームスピード: {0}%",
+			"UI_INCREASE_SPEED": "加速",
+			"UI_DECREASE_SPEED": "減速",
+			"UI_KNOCKOUT": "気絶させる",
+			"UI_AI": "AI"
+		}
 	},
 	"localisedLines": {
 		"0012AEABF494927E": "UI_WAKE",
