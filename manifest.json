@@ -1,5 +1,5 @@
 {
-	"version": "1.1.0",
+	"version": "1.3.0",
 	"id": "Atampy26.RealityControl",
 	"name": "Reality Control",
 	"description": "Tools for messing with the AI and the game in general.",
@@ -51,7 +51,20 @@
 			"UI_KNOCKOUT": "Knock out",
 			"UI_AI": "AI"
 		},
-		"french": {},
+		"french": {
+			"UI_WAKE": "Réveiller",
+			"UI_ASKTOFOLLOW": "Demander de suivre",
+			"UI_DISMISS": "Congédier",
+			"UI_KILL": "Tuer",
+			"UI_INVINCIBILITY": "Invincibilité",
+			"UI_DISABLED": "Désactivé",
+			"UI_ENABLED": "Activé",
+			"UI_TIME_SPEED_PERCENTAGE": "Vitesse du jeu: {0}%",
+			"UI_INCREASE_SPEED": "Accélérer",
+			"UI_DECREASE_SPEED": "Ralentir",
+			"UI_KNOCKOUT": "Assommer",
+			"UI_AI": "AI"
+		},
 		"italian": {},
 		"german": {
 			"UI_WAKE": "Wecken",
@@ -71,7 +84,20 @@
 		"russian": {},
 		"chineseSimplified": {},
 		"chineseTraditional": {},
-		"japanese": {}
+		"japanese": {
+			"UI_WAKE": "起こす",
+			"UI_ASKTOFOLLOW": "ついてくるように頼む",
+			"UI_DISMISS": "解散する",
+			"UI_KILL": "殺す",
+			"UI_INVINCIBILITY": "無敵",
+			"UI_DISABLED": "無効",
+			"UI_ENABLED": "有効",
+			"UI_TIME_SPEED_PERCENTAGE": "ゲームスピード: {0}%",
+			"UI_INCREASE_SPEED": "加速",
+			"UI_DECREASE_SPEED": "減速",
+			"UI_KNOCKOUT": "気絶させる",
+			"UI_AI": "AI"
+		}
 	},
 	"localisedLines": {
 		"0012AEABF494927E": "UI_WAKE",
