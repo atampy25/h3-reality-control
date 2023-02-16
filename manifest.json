@@ -16,25 +16,21 @@
 	],
 	"options": [
 		{
-      "name": "Default",
-      "group": "Deaths/Pacifications",
-      "type": "select",
-			"contentFolders": [
-				"no-accidents"
-			],
+			"name": "Default",
+			"group": "Deaths/Pacifications",
+			"type": "select",
+			"contentFolders": ["no-accidents"],
 			"tooltip": "All kills/pacifications via reality control won't be accidents.",
-      "enabledByDefault": true
-    },
+			"enabledByDefault": true
+		},
 		{
-      "name": "Accidents",
-      "group": "Deaths/Pacifications",
-      "type": "select",
-      "enabledByDefault": false,
-			"contentFolders": [
-				"accidents"
-			],
+			"name": "Accidents",
+			"group": "Deaths/Pacifications",
+			"type": "select",
+			"enabledByDefault": false,
+			"contentFolders": ["accidents"],
 			"tooptip": "All kills/pacifications via reality control will be accidents."
-    }
+		}
 	],
 	"localisation": {
 		"english": {
@@ -77,7 +73,7 @@
 			"UI_TIME_SPEED_PERCENTAGE": "Geschwindigkeit der Zeit: {0}%",
 			"UI_INCREASE_SPEED": "Schneller",
 			"UI_DECREASE_SPEED": "Langsamer",
-			"UI_KNOCKOUT": "Pazifizieren",
+			"UI_KNOCKOUT": "Ausschalten",
 			"UI_AI": "KI"
 		},
 		"spanish": {},
