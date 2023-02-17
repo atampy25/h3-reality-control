@@ -17,7 +17,7 @@
 	"options": [
 		{
 			"name": "Default",
-			"group": "Deaths/Pacifications",
+			"group": "Deaths and pacifications",
 			"type": "select",
 			"contentFolders": ["no-accidents"],
 			"tooltip": "All kills/pacifications via reality control won't be accidents.",
@@ -25,7 +25,7 @@
 		},
 		{
 			"name": "Accidents",
-			"group": "Deaths/Pacifications",
+			"group": "Deaths and pacifications",
 			"type": "select",
 			"enabledByDefault": false,
 			"contentFolders": ["accidents"],
