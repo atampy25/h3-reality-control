@@ -1,5 +1,5 @@
 {
-	"version": "1.3.0",
+	"version": "1.4.0",
 	"id": "Atampy26.RealityControl",
 	"name": "Reality Control",
 	"description": "Tools for messing with the AI and the game in general.",
@@ -78,7 +78,20 @@
 		},
 		"spanish": {},
 		"russian": {},
-		"chineseSimplified": {},
+		"chineseSimplified": {
+			"UI_WAKE": "唤醒",
+			"UI_ASKTOFOLLOW": "要求跟随",
+			"UI_DISMISS": "遣散",
+			"UI_KILL": "消灭",
+			"UI_INVINCIBILITY": "无敌",
+			"UI_DISABLED": "无效",
+			"UI_ENABLED": "有效",
+			"UI_TIME_SPEED_PERCENTAGE": "游戏速度: {0}%",
+			"UI_INCREASE_SPEED": "加速",
+			"UI_DECREASE_SPEED": "減速",
+			"UI_KNOCKOUT": "昏迷",
+			"UI_AI": "AI"
+		},
 		"chineseTraditional": {},
 		"japanese": {
 			"UI_WAKE": "起こす",
