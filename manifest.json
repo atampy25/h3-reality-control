@@ -14,6 +14,24 @@
 		"00E597CA88C36DFE",
 		"0094CA751051B7BD"
 	],
+	"options": [
+		{
+			"name": "Default",
+			"group": "Deaths and pacifications",
+			"type": "select",
+			"contentFolders": ["no-accidents"],
+			"tooltip": "All kills/pacifications via reality control won't be accidents.",
+			"enabledByDefault": true
+		},
+		{
+			"name": "Accidents",
+			"group": "Deaths and pacifications",
+			"type": "select",
+			"enabledByDefault": false,
+			"contentFolders": ["accidents"],
+			"tooptip": "All kills/pacifications via reality control will be accidents."
+		}
+	],
 	"localisation": {
 		"english": {
 			"UI_WAKE": "Wake",
@@ -55,7 +73,7 @@
 			"UI_TIME_SPEED_PERCENTAGE": "Geschwindigkeit der Zeit: {0}%",
 			"UI_INCREASE_SPEED": "Schneller",
 			"UI_DECREASE_SPEED": "Langsamer",
-			"UI_KNOCKOUT": "Pazifizieren",
+			"UI_KNOCKOUT": "Ausschalten",
 			"UI_AI": "KI"
 		},
 		"spanish": {},
