@@ -59,7 +59,20 @@
 			"UI_AI": "KI"
 		},
 		"spanish": {},
-		"russian": {},
+		"russian": {
+			"UI_WAKE": "Разбудить",
+			"UI_ASKTOFOLLOW": "Попросить следовать",
+			"UI_DISMISS": "Отпустить",
+			"UI_KILL": "Убить",
+			"UI_INVINCIBILITY": "Неуязвимость",
+			"UI_DISABLED": "Отключен",
+			"UI_ENABLED": "Включен",
+			"UI_TIME_SPEED_PERCENTAGE": "Скорость времени: {0}%",
+			"UI_INCREASE_SPEED": "Увеличить скорость",
+			"UI_DECREASE_SPEED": "Уменьшить скорость",
+			"UI_KNOCKOUT": "Вырубить",
+			"UI_AI": "ИИ"
+		},
 		"chineseSimplified": {
 			"UI_WAKE": "唤醒",
 			"UI_ASKTOFOLLOW": "要求跟随",
